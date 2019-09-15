@@ -1,5 +1,7 @@
 .App {
   text-align: center;
+  height: 100vh; 
+  margin: 0px; 
 }
 
 .container { 
@@ -34,5 +36,15 @@
 .InfoPin{
 	background-color: peachpuff; 
 	height: 30px; 
+}
 
+.Footer {
+	background-color: rgb(240, 226, 226); 
+	height: 80px; 
+	top: 0px; 
+}
+
+.TextFooter {
+	margin: 0px; 
+	text-align: center; 
 }
